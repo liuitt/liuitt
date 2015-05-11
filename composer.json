@@ -1,10 +1,9 @@
 {
-  
 	"name": "liuitt/liuitt",
 	"description": "The Liuitt Framework.",
 	"keywords": ["framework", "liuitt"],
-	"license": "BSD-3-Clause",
-  "require" : {
-    "php" : ">=5.4.0"
-  }
+	"license": "MIT",
+  	"require" : {
+    		"php" : ">=5.4.0"
+  	}
 }
